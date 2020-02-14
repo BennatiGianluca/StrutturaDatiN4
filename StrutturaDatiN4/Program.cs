@@ -17,7 +17,7 @@ namespace StrutturaDati4
                 {
                     if (line == number)
                     {
-                        Console.WriteLine($"il numero esiste");
+                        Console.WriteLine($"il numero esiste ");
                         Console.ReadLine();
                     }
                     else if (line != number)
